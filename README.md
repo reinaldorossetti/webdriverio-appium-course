@@ -25,10 +25,10 @@ Before you begin, ensure you have the following tools installed on your system.
   
   ```bash
   npm install --force --save-dev
-  ```
   npm install -g appium
   ```
-- Appium Drivers (UIAutomator2 for Android, XCUITest for iOS):
+- Appium Drivers (UIAutomator2 for Android, XCUITest for iOS):  
+
   ```bash
   appium driver install uiautomator2
   appium driver install xcuitest
